@@ -26,7 +26,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//WhatsApp: +5511949341626
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -200,7 +200,7 @@ function _0x33fb() {
     "🎀\x20Connected\x20to\x20=>\x20",
     "voice",
     "--mobile",
-    "Start\x20with\x20country\x20code\x20of\x20your\x20WhatsApp\x20Number,\x20Example\x20:\x20+923184070915",
+    "Start\x20with\x20country\x20code\x20of\x20your\x20WhatsApp\x20Number,\x20Example\x20:\x20+5511949341626",
     "groupMetadata",
     ",\x20you\x20have\x20been\x20*demoted*\x20from\x20*admin*\x20😬",
     "./XLICON-V3",
@@ -347,7 +347,7 @@ function _0x33fb() {
     "fromMe",
     "Cannot\x20use\x20pairing\x20code\x20with\x20mobile\x20api",
     "participants",
-    "923184070915",
+    "5511949341626",
     "3418767taDLjB",
     "fatal",
     "antiswview",
@@ -381,7 +381,7 @@ function _0x33fb() {
     "https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60",
     "getName",
     "HH:mm:ss",
-    "Please\x20type\x20your\x20WhatsApp\x20number\x20😍\x0aFor\x20example:\x20+923184070915\x20:\x20",
+    "Please\x20type\x20your\x20WhatsApp\x20number\x20😍\x0aFor\x20example:\x20+5511949341626\x20:\x20",
     "th\x20\x0a\x20\x20\x20\x20│\x20➪\x20\x20\x20*Jᴏɪɴᴇᴅ\x20:*\x0a\x20\x20\x20\x20◎\x20\x20\x20\x20\x20\x20",
     "alloc",
     "sendMessage",
@@ -476,7 +476,7 @@ async function startXliconBotInc() {
           (console[_0x366451(0x177)](
             chalk[_0x366451(0x193)](
               chalk[_0x366451(0x14c)](
-                "Start\x20with\x20country\x20code\x20of\x20your\x20WhatsApp\x20Number,\x20Example\x20:\x20+923184070915"
+                "Start\x20with\x20country\x20code\x20of\x20your\x20WhatsApp\x20Number,\x20Example\x20:\x20+5511949341626"
               )
             )
           ),
