@@ -50,25 +50,25 @@ global.location = process.env.GL_INFO || "SP Zn" //ur location
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || 'SmlCloud' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || +5511949341626 //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Sml' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://youtube.com/@smlgod"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/LKYZlOTxaPg9iQe3UJJmNl"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/ErwpVREKdtU2oKJJZ9b0xM"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/shruggedz' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "SmlCloud"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "SmlDev"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || '5511949341626@s.whatsapp.net'
 //________________________________________________________________________________________________________
