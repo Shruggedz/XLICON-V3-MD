@@ -52,7 +52,7 @@ global.location = process.env.GL_INFO || "SP Zn" //ur location
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'SmlBot' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '5511949341626' //ur owner number
+global.ownernumber = process.env.SUDO || "5511949341626" //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Sml' //ur owner name
 //________________________________________________________________________________________________________
